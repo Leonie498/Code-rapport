@@ -1,4 +1,4 @@
-Code relatif au rapport de stage de fin d'études (ENSAI).\\
+Code relatif au rapport de stage de fin d'études (ENSAI).
 
 Le fichier "functions" contient des fonctions utiles pour les deux estimations.
 
